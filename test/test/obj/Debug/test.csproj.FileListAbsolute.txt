@@ -1,0 +1,8 @@
+E:\C# Denemelerim\test\test\bin\Debug\test.exe.config
+E:\C# Denemelerim\test\test\bin\Debug\test.exe
+E:\C# Denemelerim\test\test\bin\Debug\test.pdb
+E:\C# Denemelerim\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\C# Denemelerim\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+E:\C# Denemelerim\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\C# Denemelerim\test\test\obj\Debug\test.exe
+E:\C# Denemelerim\test\test\obj\Debug\test.pdb
